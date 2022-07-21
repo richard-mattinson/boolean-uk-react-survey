@@ -5,7 +5,7 @@ const answersSet = {
   swimming: "Swimming",
   bathing: "Bathing",
   chatting: "Chatting",
-  noTime: "I don't like to spend time with it"
+  noDuck: "Imagining I have a Rubber Duck"
 };
 
 function ItemsList({ list }) {
